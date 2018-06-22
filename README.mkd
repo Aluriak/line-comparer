@@ -1,0 +1,9 @@
+# line comparer
+Compare space separated content of lines in input file. Highlight bad parts.
+
+usage example:
+
+    python line_comparer.py data/test-simple.txt
+
+
+Use [colorama](https://pypi.org/project/colorama/) for cross-platform colors in output.
